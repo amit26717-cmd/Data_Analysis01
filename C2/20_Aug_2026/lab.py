@@ -20,4 +20,7 @@ print("Number of words : ",count)
 #find word in the sentence 
 print('kumar' in low)
 
+#completed
+
+
 
