@@ -13,3 +13,4 @@ df.head()
 
 pr=df[(df['Category']=="Electronics")&(df["Country"]=="Japan")&(df["Product"]=="Mouse")]
 print(pr)
+#
