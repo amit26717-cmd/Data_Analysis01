@@ -8,7 +8,8 @@ df.head()
 # df = pd.read_csv('t.csv', sep=';')
 # print(df)
 
-print(df.loc[15])
+# print(df.loc[15])
+print(df.iloc[0:9])
 # print(df.iloc[0,'word_freq_all'])
 
 # pr=df[(df['Category']=="Electronics")&(df["Country"]=="Japan")&(df["Product"]=="Mouse")]
