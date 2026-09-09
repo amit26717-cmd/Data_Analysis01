@@ -1,12 +1,12 @@
 import numpy as np
-# arr=np.array([1,2,3,4,5,6,7,8,9])
-# print("Array",arr)
+arr=np.array([1,2,3,4,5,6,7,8,9])
+print("Array",arr)
 
-# arr1= np.array([[1,2,3,4],[5,6,7,8]])
-# print("2d Array ",arr1)
+arr1= np.array([[1,2,3,4],[5,6,7,8]])
+print("2d Array ",arr1)
 
-# print(type(arr).__name__)
-# print(type(arr1).__name__)
+print(type(arr).__name__)
+print(type(arr1).__name__)
 
 
 import time
