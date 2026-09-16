@@ -1,0 +1,18 @@
+
+Analyze the superstore retail dataset to understand sale performence ,
+profitability customer segment ,product,category,and regional trend . 
+Student will use panda for data handaling and EDA numpy for numerical manipulation 
+and derived mesure , and matplotlib for manigful data visualization 
+
+task to perform 
+        load csv file using panda display first and last record , cheak the shap , column name , data type 
+        mising value and duplicate record and generate basic discriptive statistics
+    perform exploratory data analysis(EDA)
+        use panda operation such as filtering sorting groupby(),  and value_count()to analyze sale ,
+        quantity ,discount,customer,segment,category and sub category region and order _date pattern 
+    apply numpy operation
+        use numpy for numerical analysis such as mean / mediaan , profit margin calculation ,normalization 
+        categorization of shales value ,and creation of at leas one usful derived numerical column 
+    Data visualization using matplotlib 
+        creat meaningfull chart using matplotlib ,including bar chart(s),line chart,histogram/box,plot and scatter 
+        to visualize sale and profit trends acros category ,region segment and time 
